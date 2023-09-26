@@ -1,0 +1,33 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    background-color: aquamarine;
+}
+a{
+    color: black;
+    background-color: rgb(191, 252, 231);
+    padding: 1%;
+}
+nav{
+    background-color: inherit;
+    text-align: right;
+    margin-top: 2%;
+}
+p.boxmodel{
+    width: 600px;
+	height: 220px;
+	background: inherit;
+	color: black;
+    text-align: center;
+    text-align: justify;
+    margin-left: 30%;
+}
+p.boxmodel2{
+    width: 600px;
+	background: inherit;
+	color: black;
+    text-align: center;
+    text-align: justify;
+    margin-left: 30%;
+}
