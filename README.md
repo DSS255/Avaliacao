@@ -1,7 +1,7 @@
 # Vidas marinhas
 
 Um site usado como introudução no html e css, o conteúdo fala sobre a importância da vida marinha, meios de preservar ela e o que se deve
-evitar fazer que prejudica a vida marinha. LINK: https://vidasmarinhas.netlify.app/pag3
+evitar fazer que prejudica a vida marinha. LINK: https://vidasmarinhas.netlify.app
 
 
 ## 🛠️ Construído com
